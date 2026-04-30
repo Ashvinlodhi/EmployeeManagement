@@ -23,8 +23,5 @@ designed to manage employee records efficiently.
 2. Open in IntelliJ IDEA or Eclipse
 3. Run `Main.java`
 
-## 📸 Screenshots
-*(Add 1-2 screenshots here — drag and drop image in GitHub)*
-
 ## 📬 Contact
 **Ashvin Lodhi** — [LinkedIn](https://www.linkedin.com/in/ashvin-lodhi-792177258/) | ashvinlodhi122@gmail.com
